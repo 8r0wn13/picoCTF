@@ -9,3 +9,5 @@ It is mentioned that it is an sqlite database.</br>
 In sqlite `||` is concatenating strings in the database, hence we can use `ad'||'min.</br>
 In order to get the password, we can use the `glob` function: `' glob '*`</br>
 Logging in with `ad'||'min:' glob '*` is successful and will mention to go to `/filter.php` where the flag will be revealed.</br>
+
+Another option is, to return something what is true in the password field, for example: `ad'||'min:a' is not 'b`</br>
