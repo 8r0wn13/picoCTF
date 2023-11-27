@@ -1,7 +1,7 @@
-# Some Assembly Required 1
+# Some Assembly Required 2
 
 ## Description
-This write up will show how to solve the CTF for "Some Assembly Required 1"
+This write up will show how to solve the CTF for "Some Assembly Required 2"
 
 ## Solution
 Looking at the JavaScript, there is an obfuscated file `aD8SvhyVkb`.</br>
